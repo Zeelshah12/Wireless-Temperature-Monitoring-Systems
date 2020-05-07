@@ -32,6 +32,8 @@ Screenshots
 
 <img src = "screenshots/Screenshot_20190328-144303_BluetoothLeGatt.jpg" height="400" alt="Screenshot"/> <img src="screenshots/Screenshot_20190328-144313_BluetoothLeGatt.jpg" height="400" alt="Screenshot"/> <img src="screenshots/Screenshot_20190328-144325_BluetoothLeGatt.jpg" height="400" alt="Screenshot"/> <img src="screenshots/Screenshot_20190328-144728_BluetoothLeGatt.jpg" height="400" alt="Screenshot"/> <img src="screenshots/Screenshot_20190328-144733_BluetoothLeGatt.jpg" height="400" alt="Screenshot"/>
  <img src="screenshots/Screenshot_20190410-151005_BluetoothLeGatt.jpg" height="400" alt="Screenshot"/>
+ 
+ More screenshots for all use-cases of an application are available in screenshots folder.
 
 
 
